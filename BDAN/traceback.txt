@@ -1,0 +1,30 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 256, in script
+    menu:
+  File "game/script.rpy", line 263, in <module>
+    "我都要！！！！"if persisten.op1 and persistent.op2:
+NameError: name 'persisten' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 256, in script
+    menu:
+  File "D:\renpy\renpy-8.2.1-sdk\renpy\ast.py", line 1618, in execute
+    choice = renpy.exports.menu(choices, self.set, args, kwargs, item_arguments)
+  File "D:\renpy\renpy-8.2.1-sdk\renpy\exports.py", line 1075, in menu
+    condition = renpy.python.py_eval(condition)
+  File "D:\renpy\renpy-8.2.1-sdk\renpy\python.py", line 1209, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "D:\renpy\renpy-8.2.1-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 263, in <module>
+    "我都要！！！！"if persisten.op1 and persistent.op2:
+NameError: name 'persisten' is not defined
+
+Windows-10-10.0.19041 AMD64
+Ren'Py 8.2.1.24030407
+Before Death After Night 1.0
+Tue May 28 20:26:49 2024

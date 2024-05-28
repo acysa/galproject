@@ -1,0 +1,17 @@
+init python:
+    L.goodwill=50
+    K.goodwill=90
+    D.sanspoint=70
+    D.happypoint=60
+    Y.goodwill=30
+    python:
+        L.goodwill=50
+        K.goodwill=90
+        D.sanspoint=70
+        D.happypoint=60
+        Y.goodwill=30
+
+default L.goodwill=50
+default K.goodwill=90
+default D.sanspoint=70
+default D.happypoint=60
