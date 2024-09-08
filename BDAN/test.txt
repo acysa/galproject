@@ -1,0 +1,35 @@
+https://k-ak-g-vi-m123.adultporna-av8abc888.xyz/zzzz
+https://www.91cg1.com/archives/40893/
+https://91cg07.com
+persistent.save_data = {}  # 初始化为空字典  
+
+# 保存状态  
+def save_game_state(slot_id, character_attributes):  
+    persistent.save_data[slot_id] = character_attributes  
+
+# 加载状态  
+def load_game_state(slot_id):  
+    return persistent.save_data.get(slot_id, None)  # 如果没有找到存档，返回None  
+
+# 示例用法  
+save_game_state(1, {'D_goodwill': 50, 'K_goodwill': 90, ...})  
+loaded_state = load_game_state(1)  
+if loaded_state:  
+    D.goodwill = loaded_state['D_goodwill']  
+    K.goodwill = loaded_state['K_goodwill']  
+    # ... 恢复其他属性
+init python:
+    import random
+    class character:
+        def goodwill(point):
+            self.goodwill=point
+        def sanspoint(point):
+            self.sanspoint=point
+        def happypoint(point):
+            self.happypoint=point
+init python:
+    L.goodwill=50
+    K.goodwill=90
+    D.sanspoint=70
+    D.happypoint=60
+    Y.goodwill=30
