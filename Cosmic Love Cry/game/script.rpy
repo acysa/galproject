@@ -10,8 +10,10 @@ define LQ = Character('十日十乞十八子', image = 'char/other/lq normal.png
 define F = Character('Felix', image = 'char/other/felix half front1.png')
 #声明游戏变量
 #好感度
-default H_point = 60
-default L_point = 60
+default H_point31 = 60
+default H_point21 = 60
+default L_point18 = 80
+default L_point28 = 30
 default B_point = 40
 default LQ_point = 20
 default F_point = 10
@@ -33,9 +35,16 @@ image bg dream1 ="bg/dream1.png"
 image bg umbrella ="bg/under_umbrella.png"
 image bg test_room ="bg/test_room.png"
 image bg rain ="bg/rain.png"
-image bg theatre ="bg/theatre.png"
+image bg theatre ="bg/theatre.png"#剧场
 image bg shop ="bg/shop.png"
-image bg awak ="bg/awak.png"
+image bg awak ="bg/awak.png"#黄婷婷睡醒图
+image bg lie ="bg/lie.png"#骑身
+image bg sincere ="bg/sincere_1.png"#双人签收
+image bg diet ="bg/diet.png"#吃外卖臭图
+image bg httwash ="bg/httwash_1.png"#黄洗澡
+image bg lyteat ="bg/lyteat.png"#一次性李艺彤吃外卖
+image bg bathroom ="bg/bathroom.png"#浴室背景
+image bg bedroom ="bg/bedroom.png"#浴室背景
 #结局
 image bg end_1 ="end/end_1_1.png"
 image bg end_2 ="end/end_2_1.png"
@@ -69,10 +78,14 @@ define dream = 'bgm/dream.mp3'
 define wind = 'bgm/wind.mp3'
 define bad = 'bgm/bad.mp3'
 define demon = 'bgm/demon.mp3'
+define washroom1 = 'bgm/washroom1.mp3'
+define washroom2 = 'bgm/washroom2.mp3'
+define et = 'bgm/eat_time.mp3'
+#主题音乐
+define heart = 'bgm/heart.mp3'
 # 游戏在此开始。
 
 label start:
-    jump end_three
     scene bg dream with dissolve:
         vp
     '''有人说，我们之间隔着一整个青春的距离。

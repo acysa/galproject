@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/chapt/chapt5.rpy", line 115: expected end of line
+    stop all sound
+             ^
+
+Ren'Py Version: Ren'Py 8.5.3.26051504
+Wed Jun 24 19:31:45 2026

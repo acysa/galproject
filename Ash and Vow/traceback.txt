@@ -1,0 +1,33 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/chapt/chapt4.rpy", line 25, in script
+    show effect arm_rune_blue with flashbulb
+  File "game/chapt/chapt4.rpy", line 25, in <module>
+    show effect arm_rune_blue with flashbulb
+                                   ^^^^^^^^^
+NameError: name 'flashbulb' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/chapt/chapt4.rpy", line 25, in script
+    show effect arm_rune_blue with flashbulb
+  File "renpy/ast.py", line 1584, in execute
+    paired = renpy.python.py_eval(self.paired)
+             ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "renpy/python.py", line 1308, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1301, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/chapt/chapt4.rpy", line 25, in <module>
+    show effect arm_rune_blue with flashbulb
+                                   ^^^^^^^^^
+NameError: name 'flashbulb' is not defined
+
+Windows-10-10.0.19045-SP0 AMD64
+Ren'Py 8.5.3.26051504
+Ash and Vow 0.1
+Wed Jun 24 19:39:50 2026

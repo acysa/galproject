@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"val_set"
+			],
+			[
+				"hid",
+				"hideen_size2"
+			],
+			[
+				"b",
+				"batch_y"
+			],
+			[
+				"opti",
+				"optizimer"
+			],
+			[
+				"batch",
+				"batch_y"
+			],
+			[
+				"hi",
+				"hideen_size2"
+			],
+			[
+				"lar",
+				"layer2"
+			],
+			[
+				"L",
+				"L_point"
+			],
+			[
+				"y",
+				"y_pred1"
+			],
+			[
+				"cr",
+				"crition"
+			],
+			[
+				"f",
+				"forward(x)"
+			],
+			[
+				"l",
+				"layer3"
+			],
+			[
+				"hidd",
+				"hidden_size2"
+			],
+			[
+				"la",
+				"layer2"
+			],
+			[
+				"hiden",
+				"hidden_size"
+			],
+			[
+				"to",
+				"tmodel"
+			],
+			[
+				"r",
+				"room"
+			],
+			[
+				"h",
+				"home_three_two"
+			],
+			[
+				"in",
+				"inputsize"
+			],
+			[
+				"i",
+				"input(prompt)"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"wa",
+				"washroom1"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"y_",
+				"y_true"
+			],
+			[
+				"en",
+				"end_3"
+			],
+			[
+				"ho",
+				"home_two_two"
+			],
+			[
+				"s",
+				"street_two_one"
+			],
+			[
+				"w",
+				"with"
+			],
+			[
+				"p",
+				"page_num"
+			],
+			[
+				"pa",
+				"page_num"
+			],
+			[
+				"t",
+				"Theatre_two_one"
+			],
+			[
+				"dream",
+				"dream_one_two"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"wi",
+				"with"
+			],
+			[
+				"no",
+				"notebook"
+			],
+			[
+				"c",
+				"check_button_text"
+			],
+			[
+				"TH",
+				"Theatre_two"
+			],
+			[
+				"th",
+				"theatre"
+			],
+			[
+				"zo",
+				"zoom"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"q",
+				"quotes"
+			],
+			[
+				"so",
+				"soup"
+			],
+			[
+				"x",
+				"xzoom"
+			],
+			[
+				"ra",
+				"ranting"
+			],
+			[
+				"Lo",
+				"Logger"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"D",
+				"Developer"
+			],
+			[
+				"m",
+				"Manager"
+			],
+			[
+				"tea",
+				"team_size"
+			],
+			[
+				"reu",
+				"result"
+			],
+			[
+				"wra",
+				"wrapper1"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"img_",
+				"img_gray"
+			],
+			[
+				"shen",
+				"shenfu_room2"
+			],
+			[
+				"bo",
+				"book1"
+			],
+			[
+				"g",
+				"godfather_die"
+			],
+			[
+				"mu",
+				"music"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"sw",
+				"sword2"
+			],
+			[
+				"sh",
+				"shop_gettool"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"fa",
+				"False"
+			],
+			[
+				"ch",
+				"chat_name"
+			],
+			[
+				"di",
+				"div_with_chapc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"LSP AB",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"LSP DI",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP: Sho",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"LSP: Enable Language Server Globally",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"sunlime ",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 101.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/mygalgam/galproject/Cosmic Love Cry/game/chapt/chapt_h.rpy",
+		"/F/mygalgam/galproject/Cosmic Love Cry/game/script.rpy",
+		"/F/ai/thirf",
+		"/F/ai/homework_1",
+		"/F/ai/jiayou.py",
+		"/F/ai/second.py",
+		"/F/mygalgam/galproject/Cosmic Love Cry/game/screens.rpy",
+		"/F/mygalgam/galproject/Cosmic Love Cry/game/gui.rpy",
+		"/F/mygalgam/galproject/Cosmic Love Cry/game/options.rpy",
+		"/F/badou/第2周 深度学习原理/week2 深度学习基本原理/week2 深度学习基本原理/TorchDemo.py",
+		"/C/Users/14680/Desktop/print('hellow world')",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/Default/run_syntax_tests.py",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/Default/send2trash/__init__.py",
+		"/C/Users/14680/Desktop/完全懂了！你的意思是，地图上的角色组合是完全动态的，每次打开地图，上面可能出现的角色都不一样，甚至数",
+		"/F/mygalgam/galproject/Cosmic Love Cry/game/chapt/chapt_end.rpy",
+		"/F/badou/第2周 深度学习原理/week2 深度学习基本原理/week2 深度学习基本原理/DNNforward.py",
+		"/F/mygalgam/galproject/Cosmic Love Cry/game/chapt/chapt_l.rpy",
+		"/F/badou/Ai-24-nlp/第2周 深度学习原理/week2 深度学习基本原理/week2 深度学习基本原理/DNNforward.py",
+		"/F/ai/second",
+		"/F/ai/first_model.py",
+		"/F/ai/torchlearn.py",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/User/.SublimeREPLHistory/python.db",
+		"/D/Sublime Text/python38.dll",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/User/badoupy.sublime-build",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/User/sypy.sublime-build",
+		"/F/ai/torch.py",
+		"/F/badou/Ai-24-nlp/第2周 深度学习原理/week2 深度学习基本原理/week2 深度学习基本原理/CrossEntropy.py",
+		"/F/badou/Ai-24-nlp/第2周 深度学习原理/week2 深度学习基本原理/week2 深度学习基本原理/NmpyOp.py",
+		"/F/badou/Ai-24-nlp/新建文本文档.bat",
+		"/F/badou/Ai-24-nlp/新建文本文档.py",
+		"/D/galproject/Cosmic Love Cry/game/script.rpy",
+		"/D/galproject/Cosmic Love Cry/game/chapt/chapt_end.rpy",
+		"/D/galproject/Cosmic Love Cry/game/chapt/chapt_h.rpy",
+		"/C/Users/14680/.gitconfig",
+		"/D/galproject/Cosmic Love Cry/game/screens.rpy",
+		"/D/galproject/Cosmic Love Cry/game/options.rpy",
+		"/D/galproject/Cosmic Love Cry/game/gui.rpy",
+		"/D/galproject/BDAN/game/script.rpy",
+		"/D/galproject/Cosmic Love Cry/game/chapt/chapt_l.rpy",
+		"/D/galproject/Ash and Vow/game/script.rpy",
+		"/D/galproject/Cosmic Love Cry/game/chapt/chapt_end",
+		"/D/galproject/Ash and Vow/game/screens.rpy",
+		"/D/galproject/Ash and Vow/game/chapt/chapt0.rpy",
+		"/D/galproject/Ash and Vow/game/chapt/chapt1.rpy",
+		"/D/galproject/Ash and Vow/game/chapt/chapt2.rpy",
+		"/D/galproject/Ash and Vow/game/chapt/chapt3.rpy",
+		"/D/galproject/Ash and Vow/game/chapt/chapt4.rpy",
+		"/D/galproject/Ash and Vow/game/chapt/chapt5.rpy",
+		"/D/galproject/Ash and Vow/game/options.rpy",
+		"/C/Users/14680/Downloads/CodexPlusPlus-main/CodexPlusPlus-main/README.md",
+		"/C/Users/14680/.codex/config.toml",
+		"/D/galproject/Ash and Vow/game/gui.rpy",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/galproject/Ash and Vow/game/chapt/chapt4",
+		"/D/galproject/Ash and Vow/game/chapt/chapt3.rpyc",
+		"/D/资料/print('hello')",
+		"/D/资料/2.py",
+		"/D/galproject/Ash and Vow/game/chapt/chapt0.rpyc",
+		"/D/galproject/Ash and Vow/game/script.rpyc",
+		"/D/galproject/AshandVow-1.0-dists/AshandVow-1.0-web/game/game/script.rpy",
+		"/D/galproject/AshandVow-1.0-dists/AshandVow-1.0-web/AshandVow_20260612233551.py",
+		"/D/galproject/AshandVow-1.0-dists/AshandVow-1.0-web/game (2)/AshandVow.py",
+		"/D/资料/movie.csv",
+		"/D/galproject/Ash and Vow/game/chapt/chapt0.py",
+		"/D/galproject/Ash and Vow/game/chapt/chapt1.py",
+		"/D/galproject/sally day/game/options.rpy",
+		"/D/galproject/sally day/game/gui.rpy",
+		"/D/galproject/sally day/game/screens.rpy",
+		"/D/galproject/sally day/game/script.rpy",
+		"/D/资料/merged.txt",
+		"/D/资料/print('hello')q",
+		"/D/资料/帝可得资料.txt",
+		"/D/资料/result.txt",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/User/c#test.sublime-build",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/Default/Syntax Tests.sublime-build",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/D/资料/1.py",
+		"/F/第二周/八斗精品班/第二周 深度学习原理/week2 深度学习基本原理/week2 深度学习基本原理/TorchDemo.py",
+		"/F/第二周/八斗精品班/第二周 深度学习原理/week2 深度学习基本原理/week2 深度学习基本原理/a.py",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/User/syspy-build",
+		"/D/Sublime Text/Packages/Python.sublime-package",
+		"/D/BaiduNetdiskDownload/第二周/八斗精品班/第二周 深度学习原理/week2 深度学习基本原理/week2 深度学习基本原理/NmpyOp.py",
+		"/D/BaiduNetdiskDownload/第二周/八斗精品班/第二周 深度学习原理/week2 深度学习基本原理/week2 深度学习基本原理/CrossEntropy.py",
+		"/D/galproject/BDAN/game/end.rpy",
+		"/D/BaiduNetdiskDownload/代码/nearest interp.py",
+		"/D/pypg/9yuepy/9_9.py",
+		"/D/pypg/pqwbxxx.py",
+		"/D/pypg/pac.py",
+		"/D/BaiduNetdiskDownload/【2】数学&数字图像/test_image_gray.py",
+		"/D/pypg/jingshenbingyuanxuezhanshen.py",
+		"/D/ai/homework/geay.py",
+		"/D/BaiduNetdiskDownload/代码/bilinear interpolation.py",
+		"/C/Users/14680/AppData/Local/Temp/BNZ.66df16ca1cb3c25/Histogram Equalization.py",
+		"/D/BaiduNetdiskDownload/代码/Histogram Equalization.py",
+		"/D/BaiduNetdiskDownload/代码/histogram.py",
+		"/D/pypg/温馨一眼爬虫",
+		"/D/pypg/which python",
+		"/D/pypg/词语统计1.py",
+		"/D/pypg/t1s1.py",
+		"/D/pypg/c#/sa.cs",
+		"/D/pypg/c#/fuck/Program.cs",
+		"/D/galproject/BDAN/game/gui.rpy",
+		"/D/galproject/BDAN/test.txt",
+		"/D/galproject/BDAN/game/touzi.rpy",
+		"/D/galproject/BDAN/game/sword.rpy",
+		"/D/galproject/BDAN/game/废弃代码.txt",
+		"/D/galproject/BDAN/game/options.rpy",
+		"/D/galproject/oblivious garden/game/script.rpy",
+		"/D/galproject/oblivious garden/game/gui.rpy",
+		"/D/galproject/oblivious garden/game/options.rpy",
+		"/D/galproject/oblivious garden/game/screens.rpy",
+		"/D/renpy/renpy-8.2.1-sdk/renpy/python.py",
+		"/D/renpy/renpy-8.2.1-sdk/renpy/ast.py",
+		"/D/galproject/oblivious garden/game/gui.rpyc",
+		"/D/Sublime Text/机器人.py",
+		"/D/pypg/c#/HelloWorld/test.cs",
+		"/D/pypg/c#/test/test.cs",
+		"/D/pypg/c#/test/Program.cs",
+		"/D/pypg/c#/HelloWorld/Program.cs",
+		"/C/Users/14680/test/Program.cs",
+		"/D/pypg/c#/helloword.cs",
+		"/D/pypg/c#/test.cs",
+		"/D/test.cs",
+		"/C/Users/14680/Desktop/program.cs",
+		"/D/pypg/c++/ct2.cpp",
+		"/C/Users/14680/AppData/Roaming/Sublime Text/Packages/User/c#.sublime-build",
+		"/D/pypg/c#/helloword"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "chapt_h.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

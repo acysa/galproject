@@ -1601,6 +1601,11 @@ transform vp:
     ysize 1080
     xalign 0.5
     yalign 0.5
+
+transform hm:
+    yoffset -280
+    zoom(1.2)
+    xzoom(-1.0)
 # 定义一个名为 flash 的闪白转场：0.1秒变白，停留0秒，0.1秒恢复
 define flash = Fade(0.1, 0.0, 0.1, color="#fff")
 # 必须添加这个样式定义（关键！）
